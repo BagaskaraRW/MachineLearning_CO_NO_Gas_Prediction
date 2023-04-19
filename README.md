@@ -1,4 +1,4 @@
-# CO_and_NO_Gas_Prediction
+# CO_and_NO_Gas_Prediction (Machine Learning)
 
 This program is a project of one of the courses in the nuclear engineering and physics engineering departments, namely artificial intelligence. The author makes a program to predict CO and NO exhaust gas at a power plant. The data used is a record of exhaust gases along with parameters that affect power plants in Turkey.
 
